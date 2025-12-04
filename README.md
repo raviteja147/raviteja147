@@ -24,7 +24,7 @@ Let's connect at:
 
 🎓 Data Engineer with 5+ years of experience working across **Big Data, Cloud, and Analytics**  
 👩‍💻 Built and optimized **end-to-end data pipelines** that power reporting, dashboards, and ML use cases  
-⚙️ Experienced with **lakehouse architectures** (S3 + Iceberg + Glue) in AWS and Azure (Databricks + Delta tables)
+⚙️ Experienced with **lakehouse architectures** (S3 + Iceberg + Glue) in AWS and Azure (Databricks + Delta tables)        
 📊 Passionate about turning raw, messy data into **reliable, analytics-ready datasets**  
 ⚡ Love exploring new tools, debugging tricky performance issues, and automating everything I can  
 
