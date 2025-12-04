@@ -24,7 +24,7 @@ Let's connect at:
 
 🎓 Data Engineer with 5+ years of experience working across **Big Data, Cloud, and Analytics**  
 👩‍💻 Built and optimized **end-to-end data pipelines** that power reporting, dashboards, and ML use cases  
-⚙️ Experienced with **lakehouse architectures** (S3 + Iceberg + Glue/Databricks/Snowflake)  
+⚙️ Experienced with **lakehouse architectures** (S3 + Iceberg + Glue + Step Funtions)  in AWS and Azure (Databricks + Snowflake + ADF)
 📊 Passionate about turning raw, messy data into **reliable, analytics-ready datasets**  
 ⚡ Love exploring new tools, debugging tricky performance issues, and automating everything I can  
 
@@ -32,7 +32,7 @@ Let's connect at:
 
 ## 😀 A bit more about me
 
-- I enjoy **designing scalable data models** and **orchestrating pipelines** with tools like Step Functions / Airflow  
+- I enjoy **designing scalable data models** and **orchestrating pipelines** with tools like Step Functions / ADF  
 - I like working on **supply chain, finance, and analytics platforms** that impact real users  
 - Outside of work, you’ll probably find me experimenting with **new tech**, watching **tech talks**, or tweaking **Spark configs** for fun 😄  
 
@@ -41,7 +41,7 @@ Let's connect at:
 ## 🛠️ Languages, Tools & Technologies
 
 ### 🌐 Web, Cloud & Databases  
-- **Cloud:** AWS (S3, Glue, EMR, Lambda, Step Functions, Kinesis), Snowflake, Databricks  
+- **Cloud:** AWS (S3, Glue, EMR, Lambda, Step Functions, Kinesis), Snowflake, Azure (Databricks, ADF, ADLS) 
 - **Databases / Warehouses:** PostgreSQL, MySQL, Oracle, SQL Server, Snowflake  
 - **Infra & DevOps:** Docker, Terraform, GitHub Actions, CI/CD  
 
@@ -71,7 +71,7 @@ Let's connect at:
 - Designing **Bronze → Silver → Gold** lakehouse layers on S3 with **Iceberg** tables  
 - Implementing **incremental ingestion**, **schema evolution**, and **GDPR-style deletes**  
 - Tuning **Spark jobs** for cost & performance (partitioning, joins, file sizes, AQE, broadcast, etc.)  
-- Orchestrating workflows using **AWS Step Functions / Lambda / Glue Jobs**  
+- Orchestrating workflows using **AWS Step Functions / Lambda / Glue Jobs / ADF**  
 
 ---
 ### 🌱 I’m currently learning  
@@ -82,7 +82,7 @@ Let's connect at:
 ### 💬 Ask me about  
 - **Data Engineering** (ETL/ELT, batch & streaming)  
 - **Big Data** with **PySpark**, **EMR/Glue**, and **Databricks**  
-- **Cloud data platforms** on **AWS** and **Snowflake**  
+- **Cloud data platforms** on **AWS**, **Azure** and **Snowflake**  
 - **Performance tuning** (partitioning, joins, file sizes, cost optimization)
 
 ---
