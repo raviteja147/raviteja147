@@ -14,23 +14,9 @@ Thanks for stopping by 🥳
 
 Let's connect at:  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ravitejaarava/  
-👨‍💻 **GitHub:** https://github.com/raviteja147  
 
 <!-- Optional: coder gif -->
 <!-- <img src="coder.gif" width="400" /> -->
-
----
-
-### 🌱 I’m currently learning  
-- Advanced **Apache Spark & Iceberg** internals  
-- **Streaming architectures** (Kinesis / Kafka → Snowflake / Lakehouse)  
-- **Data lakehouse design** on AWS (Bronze → Silver → Gold)  
-
-### 💬 Ask me about  
-- **Data Engineering** (ETL/ELT, batch & streaming)  
-- **Big Data** with **PySpark**, **EMR/Glue**, and **Databricks**  
-- **Cloud data platforms** on **AWS** and **Snowflake**  
-- **Performance tuning** (partitioning, joins, file sizes, cost optimization)
 
 ---
 
@@ -86,6 +72,18 @@ Let's connect at:
 - Implementing **incremental ingestion**, **schema evolution**, and **GDPR-style deletes**  
 - Tuning **Spark jobs** for cost & performance (partitioning, joins, file sizes, AQE, broadcast, etc.)  
 - Orchestrating workflows using **AWS Step Functions / Lambda / Glue Jobs**  
+
+---
+### 🌱 I’m currently learning  
+- Advanced **Apache Spark & Iceberg** internals  
+- **Streaming architectures** (Kinesis / Kafka → Snowflake / Lakehouse)  
+- **Data lakehouse design** on AWS (Bronze → Silver → Gold)  
+
+### 💬 Ask me about  
+- **Data Engineering** (ETL/ELT, batch & streaming)  
+- **Big Data** with **PySpark**, **EMR/Glue**, and **Databricks**  
+- **Cloud data platforms** on **AWS** and **Snowflake**  
+- **Performance tuning** (partitioning, joins, file sizes, cost optimization)
 
 ---
 
